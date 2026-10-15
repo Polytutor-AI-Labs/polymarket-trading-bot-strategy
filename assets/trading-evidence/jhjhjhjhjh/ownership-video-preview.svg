@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Watch @jhjhjhjhjh ownership demonstration</title>
+  <desc id="desc">Play-button preview for the PolyTutor @jhjhjhjhjh ownership recording. The preview is a label, not a screenshot of private credentials.</desc>
+  <rect width="1280" height="720" fill="#0b1220"/>
+  <rect x="48" y="48" width="1184" height="624" rx="24" fill="none" stroke="#2b3a55" stroke-width="2"/>
+  <circle cx="640" cy="292" r="78" fill="#152033" stroke="#ffffff" stroke-width="6"/>
+  <polygon points="618,250 618,334 698,292" fill="#ffffff"/>
+  <text x="640" y="430" fill="#ffffff" font-size="40" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">¶ Ownership Demonstration</text>
+  <text x="640" y="490" fill="#ffffff" font-size="36" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">@jhjhjhjhjh</text>
+  <text x="640" y="548" fill="#9aa4b2" font-size="28" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">PolyTutor</text>
+</svg>
